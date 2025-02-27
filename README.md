@@ -1,4 +1,3 @@
-
 # 神经科学原理（第六版）翻译
 
 中文翻译版 [链接](https://github.com/OpenHUTB/neuro/releases) 和英文书籍电子版 [链接](https://pan.baidu.com/s/1c0haMl287vFUA51rRusHaA?pwd=dong) 。
